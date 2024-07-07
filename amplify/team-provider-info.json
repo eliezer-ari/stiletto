@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-stiletto-dev-a6245-authRole",
+      "UnauthRoleArn": "arn:aws:iam::447500965687:role/amplify-stiletto-dev-a6245-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::447500965687:role/amplify-stiletto-dev-a6245-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-stiletto-dev-a6245-deployment",
+      "UnauthRoleName": "amplify-stiletto-dev-a6245-unauthRole",
+      "StackName": "amplify-stiletto-dev-a6245",
+      "StackId": "arn:aws:cloudformation:us-west-1:447500965687:stack/amplify-stiletto-dev-a6245/8b848970-3cb9-11ef-8e77-06e29eb8b40b",
+      "AmplifyAppId": "d3ql3d4p3hqcuh"
+    },
+    "categories": {
+      "auth": {
+        "stiletto65c20dd8": {}
+      },
+      "api": {
+        "stiletto": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3ql3d4p3hqcuh",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
